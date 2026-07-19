@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
