@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Stack
 |  |
 | ------- |
