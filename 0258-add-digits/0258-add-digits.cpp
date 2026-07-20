@@ -11,7 +11,7 @@ else {
 }
     int addDigits(int num) {
         int n = sum(num);
-        while(n>10) {
+        while(n>=10) {
         n = sum(n);
         }
         return n;
