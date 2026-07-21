@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0258-add-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
