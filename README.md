@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
