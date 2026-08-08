@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -67,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
