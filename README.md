@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1672-richest-customer-wealth](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
