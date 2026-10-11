@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1539-kth-missing-positive-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prakulgupta01102007-bit/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
